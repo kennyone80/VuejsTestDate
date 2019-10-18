@@ -1,2 +1,0 @@
-# VuejsTestDate
-Created with CodeSandbox
